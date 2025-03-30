@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "ytmp3.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/api/ytmp3", "dest": "ytmp3.js" }
+  ]
+}

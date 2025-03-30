@@ -1,0 +1,9 @@
+{
+  "name": "willzek-api",
+  "version": "1.0.0",
+  "main": "ytmp3.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel"
+  }
+}
